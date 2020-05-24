@@ -1,0 +1,22 @@
+[
+    {
+        "twitter": {
+            "screen_name":"MilkySly",
+            "follows": [
+                "Superbrioche",
+                "Tiboudouboudou",
+                "MaximeDfc"
+            ]
+        }
+    },
+    {
+        "twitter": {
+            "screen_name":"MaximeDfc",
+            "follows": [
+                "MilkySly",
+                "MaximeDfc",
+                "xSqueeZie"
+            ]
+        }
+    }
+]

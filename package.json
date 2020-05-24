@@ -1,0 +1,24 @@
+{
+  "name": "livenotifier",
+  "version": "1.0.0",
+  "description": "Live Notifier app",
+  "main": "twitter/twitter-lite.js",
+  "dependencies": {
+    "twitter-lite": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node twitter/twitter-lite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UBowt571/LiveNotifier.git"
+  },
+  "author": "Maxime D",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/UBowt571/LiveNotifier/issues"
+  },
+  "homepage": "https://github.com/UBowt571/LiveNotifier#readme"
+}
