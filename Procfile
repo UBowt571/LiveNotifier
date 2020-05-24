@@ -1,1 +1,1 @@
-worker: node twitch/twitch.js
+worker: node index.js

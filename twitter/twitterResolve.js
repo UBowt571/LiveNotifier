@@ -6,6 +6,8 @@ module.exports = {
             module.exports.client.get("users/show",{screen_name: currentScreenname["screen_name"]}).then(result => {
                 currentScreenname["user_id"] = result.id_str;
                 resolve(currentScreenname);
+            }).catch(error => {
+                console.log("error : "+error)
             })
         })
     },
