@@ -4,6 +4,8 @@
   "description": "Live Notifier app",
   "main": "twitter/twitter-lite.js",
   "dependencies": {
+    "twitch": "^4.0.9",
+    "twitch-webhooks": "^4.0.9",
     "twitter-lite": "^0.11.0"
   },
   "devDependencies": {},

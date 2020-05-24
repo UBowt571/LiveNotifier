@@ -7,11 +7,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Lancer le programme",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/twitter/twitter-lite.js"
+            "program": "${workspaceFolder}/twitch/twitch.js"
         }
     ]
 }

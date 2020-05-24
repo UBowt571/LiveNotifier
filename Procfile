@@ -1,1 +1,1 @@
-worker: node twitter/twitter-lite.js
+worker: node twitch/twitch.js
